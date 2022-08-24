@@ -4,7 +4,7 @@ import org.kerala.Kerala;
 
 public class AndraPradesh extends Kerala{
 	public void telugu() {
-		System.out.println("Telugu");
+		System.out.println("Tamil");
 
 	}
 
